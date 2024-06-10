@@ -1,0 +1,71 @@
+.concert-one-regular {
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+body{
+    background-color: #006989;
+    color: antiquewhite;
+}
+
+img{
+    border: 10px solid white;
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+    background-color: black;
+    
+}
+
+#python{
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    color: #1A2130;
+}
+
+#r{
+    position: absolute;
+    top: 450px;
+    left: 300px;
+    color: #1A2130;
+}
+
+#java{
+    position: absolute;
+    top: 700px;
+    left: 300px;
+    color: #1A2130;
+}
+
+#sql{
+    position: absolute;
+    top: 900px;
+    left: 300px;
+    color: #1A2130; 
+}
+
+#c{
+    position: absolute;
+    top: 1125px;
+    left: 300px;
+    color: #1A2130; 
+}
+
+#js{
+    position: absolute;
+    top: 1350px;
+    left: 300px;
+    color: #1A2130; 
+}
+
+div{
+    border: 5px solid antiquewhite;
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    color: #1A2130;
+    padding: 5px;
+    background-color: #A7E6FF;
+}
